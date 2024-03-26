@@ -1,0 +1,1064 @@
+body {
+  overflow-x: hidden;
+}
+
+.main_top_heading {
+    font-size: 24px !important;
+    font-weight: 600 !important;
+    color: #212529 !important;
+  }
+
+.banner_headng {
+  font-size: 28px !important;
+  font-weight: 600;
+  color: #212529;
+  line-height: 45px !important;
+  padding: 30px 0 !important;
+  text-align: center !important;
+  margin: 0;
+}
+
+.banner_heading_span {
+  color: #f6931c;
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.banner_para {
+  color: #777777;
+  font-size: 16px !important;
+  text-align: center;
+}
+
+.Here_is_how {
+  font-size: 34px !important;
+  color: #f6931c;
+  font-weight: 600;
+  line-height: 52px;
+}
+
+.Here_is_how1 {
+    font-size: 37px !important;
+    color: #f6931c;
+    font-weight: 600;
+    line-height: 52px;
+  }
+
+.KeepingUFirst_margin {
+  padding: 0;
+}
+
+.KeepingYouFirst {
+  font-size: 28px !important;
+  color: #212529;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+
+.bg_KeepingYouFirst {
+  background: transparent
+    url("https://www2023.fusionfirst.com/img/h1-bg-section2.png") 0% 0%
+    no-repeat padding-box;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.card_KeepingYouFirst {
+  border: 1px solid #ebebeb;
+  background: #ffffff;
+  padding: 19px 16px;
+  margin-top: 37px;
+  border-radius: 10px;
+  min-height: 17rem;
+  margin-bottom: 37px;
+  transition: transform 1s ease;
+}
+
+.left_AOS {
+  margin: 35px 5px;
+}
+
+.right_AOS {
+  margin: 35px 5px;
+}
+
+.arrow_icon {
+  height: max-content;
+  width: 25px;
+  margin-left: auto;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.subhead_KeepingYouFirst {
+  color: #212529;
+  font-size: 20px !important;
+  font-weight: 600 !important;
+}
+
+.para_KeepingYouFirst {
+  color: #777777;
+  font-size: 18px !important;
+}
+
+.our_services_AOS {
+  justify-content: center;
+  display: flex;
+  padding: 0 30px;
+}
+
+.our_services_head {
+  color: #212529;
+  font-size: 28px !important;
+  font-weight: 600;
+  padding-bottom: 12px;
+  line-height: 32px !important;
+}
+
+.our_services_para {
+  color: #5e5e5e;
+  font-size: 24px;
+  margin-bottom: 23px;
+}
+
+.our_services_counting {
+  font-size: 24px;
+}
+
+.our_services_section {
+  padding-bottom: 35px;
+}
+
+.top_AOS {
+  padding-top: 0px;
+  top: -35px;
+  position: relative;
+}
+
+.circle_heading {
+  margin: 50px 0px 90px 0px !important;
+  color: #212529;
+  font-size: 28px !important;
+  font-weight: 600 !important;
+  line-height: 38px !important;
+}
+
+.circle_main::before {
+  content: "";
+  background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-7-svgrepo-com.png);
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 17%;
+  display: block;
+  z-index: 1;
+  background-size: contain;
+  background-repeat: no-repeat;
+  right: -122%;
+}
+
+.circle_main0::before {
+  content: "";
+  background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-8-svgrepo-com.png);
+  position: absolute;
+  top: 173px;
+  left: 125%;
+  width: 100%;
+  height: 17%;
+  display: block;
+  z-index: 1;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.circle_border {
+  position: relative;
+  width: 45%;
+  height: 80%;
+  padding-bottom: 45%;
+  margin: 15px 5px;
+}
+
+.circle_border::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px dashed #707070;
+  border-radius: 50%;
+  animation: rotate 2s linear infinite;
+  box-sizing: border-box;
+  background-color: #fff;
+}
+
+.circle_border::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px dashed #707070;
+  border-radius: 50%;
+  animation: rotate 2s linear infinite;
+  box-sizing: border-box;
+}
+
+.circle_border:hover::before {
+  border: 1px solid #f6931c;
+  box-shadow: 0px 10px 15px #00000029;
+  border-style: solid;
+  border-color: #f6931c;
+}
+.circle_border:hover {
+  .bottom_circle {
+    background: #f6931c !important;
+  }
+  .top_circle {
+    background: #f6931c !important;
+  }
+}
+
+#KeepingUFirst_container1,
+#KeepingUFirst_container2,
+#KeepingUFirst_container3,
+#KeepingUFirst_container4 {
+  display: none;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(30deg);
+  }
+}
+
+.div_center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1;
+  width: 60%;
+}
+
+.div_center > * {
+  position: relative;
+  z-index: 2;
+}
+
+.img_border {
+  background-color: #ebebeb;
+  border-radius: 210px;
+  display: grid;
+  width: 75px;
+  align-items: center;
+  justify-content: center;
+  height: 75px;
+}
+
+.circle_subhead {
+  color: #212529;
+  font-size: 20px;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+.circle_para {
+  color: #777777;
+  font-size: 14px;
+}
+
+.bottom_circle {
+  position: absolute;
+  bottom: -20px;
+  right: 43%;
+  background: #212529;
+  color: #fff;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  align-items: center;
+  display: flex;
+  z-index: 99;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.bottom_circle h5 {
+  color: #fff;
+  display: flex;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.top_circle {
+  position: absolute;
+  top: -20px;
+  left: 43%;
+  background: #212529;
+  color: #fff;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  align-items: center;
+  display: flex;
+  z-index: 99;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.top_circle h5 {
+  color: #fff;
+  display: flex;
+  position: relative;
+  margin: 0;
+  padding: 0;
+}
+
+.but_why_heading_main {
+  display: flex;
+  justify-content: center;
+}
+
+.but_why_heading {
+  margin: 52px 15px 30px 15px;
+}
+
+.but_why_heading p {
+  line-height: 0px !important;
+  color: #212529;
+  font-size: 28px !important;
+  font-weight: 600 !important;
+}
+
+.but_why_heading h3 {
+  font-size: 28px !important;
+  color: #212529;
+  font-weight: 600 !important;
+  line-height: 36px !important;
+  width: 88%;
+  text-align: left;
+}
+
+.but_why {
+  background-image: url(https://www2023.fusionfirst.com/img/home-startup-about-bg.png);
+  display: flex;
+  margin-bottom: 20px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.KeepingUFirst_ing {
+  width: 23%;
+  height: 23%;
+}
+
+.professional {
+  margin-bottom: 0px !important;
+}
+
+.get_result_para {
+  color: #777777;
+  font-size: 16px;
+}
+
+.get_result_subhead {
+  color: #212529;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  padding-bottom: 20px !important;
+  line-height: 25px;
+}
+
+.get_result_head {
+  font-size: 32px !important;
+  color: #212529 !important;
+  font-weight: 500;
+  line-height: 35px !important;
+}
+
+.get_result_button {
+  margin: 20px 0;
+  color: #fff;
+  background: #f6931c;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px !important;
+}
+
+.get_result_content {
+  padding-right: 5px;
+  padding-left: 5px;
+  text-align: center;
+}
+
+.get_result_hide {
+  display: none;
+}
+
+.Client_speaks_section {
+  margin: 70px 0px;
+}
+
+.Client_speaks_head {
+  color: #212529;
+  font-size: 55px !important;
+  font-weight: 600 !important;
+}
+
+.Client_speaks_bg {
+  background-image: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: initial;
+  text-align: center;
+}
+
+.hide_AOS {
+  display: none;
+}
+
+.show_AOS {
+  display: block;
+}
+
+.mobile_Client_speaks_head {
+  color: #212529;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.Client_speaks_border {
+  box-shadow: 0px 10px 15px #0000000f;
+  border: 1px solid #ebebeb;
+  border-radius: 10px;
+  text-align: center;
+  padding: 0px 20px;
+  margin: 30px 10px;
+  background-color: #fff;
+  position: relative;
+  min-height: 372px !important;
+}
+
+.Client_speaks_imggrp {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 25px 0px;
+}
+
+.Client_speaks_para {
+  color: #777777;
+  font-size: 16px;
+  margin: 25px 0px;
+  font-style: italic;
+}
+
+.Client_speaks_desig {
+  margin: 30px 0px;
+  color: #212529;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.ecosystem_heading {
+  padding: 0 0 30px 0;
+}
+
+.ecosystem_heading h3 {
+  color: #212529;
+  font-size: 28px !important;
+  font-weight: 600 !important;
+  padding: 0px 35px !important;
+  line-height: 37px !important;
+}
+
+.ecosystem_heading_span {
+  font-size: 28px;
+  font-weight: 600;
+  color: #535557;
+  width: 100%;
+  display: block;
+  text-align: justify;
+}
+
+.br_hide {
+  display: none;
+}
+
+.ecosystem_padding h5 {
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 32px;
+}
+
+.ecosystem_padding p {
+  font-size: 16px;
+}
+
+.flip-front h5 {
+  color: #fff;
+}
+
+.flip-front p {
+  color: #fff;
+}
+
+.ecosystem_border {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(https://www2023.fusionfirst.com/img/chatbot-software-application-modish-online-business.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.ecosystem_border_back {
+  background: #fff !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.ecosystem_border1 {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(https://www2023.fusionfirst.com/img/copped-hand-using-calculator.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.ecosystem_border1_back {
+  background: #fff !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.ecosystem_border2 {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(https://www2023.fusionfirst.com/img/happy-african-woman-shaking-hands-office.png) !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.ecosystem_border2_back {
+  background: #fff !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #fff;
+  border-radius: 15px;
+  box-shadow: 0px 10px 15px #00000045 !important;
+}
+
+.main_card {
+  border-radius: 15px !important;
+  box-shadow: none !important;
+  height: 105%;
+  margin: 0;
+}
+
+.contact_us_container {
+  padding: 695px 0px 65px 0px;
+  background: rgba(216, 216, 216, 0.29);
+  margin-top: -665px;
+}
+
+.contact_us_head {
+  font-size: 37px;
+  color: #212529;
+  font-weight: 600;
+  line-height: 56px;
+}
+
+.contact_aos_btn {
+  margin-top: 21px;
+  color: #fff;
+  background: #f6931c;
+  padding: 10px 50px;
+  border: none;
+  border-radius: 10px;
+  font-size: 21px;
+}
+
+.products .slick-dots, .steps4 .slick-dots {
+  bottom: -40px !important;
+  left: 0px;
+}
+
+.professional .slick-dots {
+  bottom: -84px !important;
+  left: 0px;
+}
+
+.steps4 .slick-track{
+    padding: 20px 0;
+  }
+
+.professional .slick-dots li.slick-active button:before, .products .slick-dots li.slick-active button:before, .steps4 .slick-dots li.slick-active button:before {
+  color: #f6931c !important;
+  opacity: 1 !important;
+}
+
+.professional .slick-dots li button:before, .products .slick-dots li button:before, .steps4 .slick-dots li button:before {
+  color: #4d535a !important;
+  opacity: 1 !important;
+  font-size: 10px !important;
+}
+
+.professional .slick-dots li, .products .slick-dots li, .steps4 .slick-dots li {
+    margin: 0 !important;
+}
+
+#show3{
+  display: none;
+ }
+ #type_text3{
+  display: contents;
+ }
+ #show2{
+  display: none;
+ }
+ #type_text2{
+  display: contents;
+ }
+
+
+
+
+.new_container {
+  --bs-gutter-x: 1.5rem;
+  --bs-gutter-y: 0;
+  width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media screen and (min-width: 992px) {
+  .top_AOS {
+    padding-top: 35px;
+  }
+  .get_result_hide {
+    display: block;
+  }
+  .our_services_head {
+    padding-bottom: 25px;
+  }
+  .our_services_section {
+    padding-bottom: 0px;
+  }
+  .get_result_content {
+    text-align: left;
+    margin: 0;
+  }
+  .Client_speaks_bg {
+    background-image: url(https://www2023.fusionfirst.com/img/chevron-double-up-svgrepo-com.png);
+    background-size: 42%;
+    text-align: left;
+    background-position-x: left;
+    background-position-y: bottom;
+  }
+  .hide_AOS {
+    display: block;
+  }
+  .show_AOS {
+    display: none;
+  }
+  .circle_border {
+    width: 90%;
+    padding-bottom: 90%;
+  }
+  .professional .slick-dots {
+    bottom: -7px !important;
+    left: 320px;
+    padding-bottom: 20px;
+  }
+  .our_services_AOS {
+    padding: 55px;
+    padding-top: 220px;
+  }
+  .bottom_circle {
+    height: 50px;
+    width: 50px;
+    bottom: -23px;
+    right: 41%;
+  }
+
+  .bottom_circle h5 {
+    font-size: 20px;
+  }
+  .top_circle {
+    height: 50px;
+    width: 50px;
+    top: -23px;
+    left: 40%;
+  }
+
+  .top_circle h5 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+    .main_top_heading {
+        font-size: 28px !important;
+    }
+  .banner_headng {
+    font-size: 32px !important;
+    line-height: 50px !important;
+    padding-bottom: 20px !important;
+    text-align: left !important;
+  }
+  .banner_heading_span {
+    font-size: 38px;
+  }
+  .banner_para {
+    text-align: left;
+  }
+  .Here_is_how {
+    font-size: 37px !important;
+  }
+  .KeepingYouFirst {
+    font-size: 32px !important;
+  }
+  .KeepingUFirst_margin {
+    padding: 70px 0;
+  }
+  .left_AOS {
+    margin: 37px 0px 37px 0px;
+  }
+
+  .right_AOS {
+    margin: 37px 0px 37px 0px;
+  }
+  .top_AOS {
+    top: 0px;
+  }
+
+  .subhead_KeepingYouFirst {
+    font-size: 22px !important;
+  }
+  .our_services_head {
+    font-size: 34px !important;
+    line-height: 45px !important;
+  }
+  .our_services_para {
+    font-size: 26px;
+  }
+  .circle_heading {
+    font-size: 32px !important;
+    line-height: 40px !important;
+  }
+  .our_services_counting {
+    font-size: 31px;
+  }
+  .but_why_heading {
+    margin: 110px 15px 15px 15px;
+  }
+  .but_why_heading h3 {
+    font-size: 32px !important;
+  }
+  .but_why_heading p {
+    line-height: 18px !important;
+    font-size: 32px !important;
+  }
+  .get_result_subhead {
+    font-size: 20px !important;
+  }
+  .Client_speaks_section {
+    margin: 120px 0px;
+  }
+  .Client_speaks_desig {
+    font-size: 17px;
+    margin: 50px 0px;
+  }
+  .br_hide {
+    display: block;
+  }
+  .ecosystem_heading h2 {
+    font-size: 32px;
+  }
+  .ecosystem_heading_span {
+    font-size: 32px;
+  }
+  .contact_us_head {
+    font-size: 42px;
+  }
+  .contact_aos_btn {
+    margin-top: 15px;
+  }
+  .contact_us_container {
+    padding: 230px 0px 80px 0px;
+    margin-top: -130px;
+  }
+  .ecosystem_heading h3 {
+    font-size: 32px !important;
+  }
+}
+
+@media screen and (min-width: 1274px) {
+  .circle_main::before {
+    content: "";
+    background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-7-svgrepo-com.png);
+    position: absolute;
+    top: 5px;
+    width: 100%;
+    height: 19%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    right: -126%;
+  }
+
+  .circle_main0::before {
+    content: "";
+    background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-8-svgrepo-com.png);
+    position: absolute;
+    top: 160px;
+    left: 127%;
+    width: 100%;
+    height: 19%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .circle_main::before {
+    content: "";
+    background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-7-svgrepo-com.png);
+    position: absolute;
+    top: 45px;
+    width: 100%;
+    height: 12%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    right: -122%;
+  }
+  .Client_speaks_border {
+    min-height: 460px !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .circle_main::before {
+    content: "";
+    background: none;
+    position: absolute;
+    top: 45px;
+    width: 100%;
+    height: 12%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    right: -122%;
+  }
+
+  .circle_main0::before {
+    content: "";
+    background: none;
+    position: absolute;
+    top: 160px;
+    left: 127%;
+    width: 100%;
+    height: 19%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .circle_heading {
+    margin: 50px 0px 40px 0px !important;
+  }
+}
+
+@media screen and (max-width: 1324px) and (min-width: 1200px) {
+  .Client_speaks_border {
+    min-height: 400px !important;
+  }
+}
+
+@media screen and (max-width: 1273px) and (min-width: 992px) {
+  .circle_border {
+    width: 100%;
+    padding-bottom: 95%;
+  }
+  .bottom_circle {
+    height: 40px;
+    width: 40px;
+    bottom: -23px;
+    right: 40%;
+  }
+  .bottom_circle h5 {
+    font-size: 20px;
+  }
+  .top_circle {
+    height: 40px;
+    width: 40px;
+    top: -23px;
+    left: 40%;
+  }
+  .top_circle h5 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+  .div_center {
+    width: 85%;
+  }
+  .circle_main::before {
+    content: "";
+    background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-7-svgrepo-com.png);
+    position: absolute;
+    top: 25px;
+    width: 100%;
+    height: 12%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    right: -102%;
+  }
+  .circle_main0::before {
+    content: "";
+    background: url(https://www2023.fusionfirst.com/img/curve-arrow-right-8-svgrepo-com.png);
+    position: absolute;
+    top: 150px;
+    left: 103%;
+    width: 100%;
+    height: 17%;
+    display: block;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .Client_speaks_border {
+    min-height: 460px !important;
+  }
+  .get_result_hide{
+    margin-right: 0.5rem !important;
+    margin-left: 0.5rem !important;
+  }
+  .kbSir_slider{
+    bottom: -28px;
+    position: relative;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .circle_border {
+    width: 65%;
+    padding-bottom: 65%;
+  }
+  .Client_speaks_border {
+    min-height: auto !important;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .circle_border {
+    width: 100%;
+    padding-bottom: 97%;
+  }
+}
+
+@media (min-width: 576px) {
+  .new_container {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+  .new_container {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .new_container {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .new_container {
+    max-width: 1345px;
+  }
+}
+
+@media screen and (max-width: 1325px) {
+  .but_why_heading h3 {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1325px) {
+   #show3{
+    display: contents;
+   }
+   #type_text3{
+    display: none;
+   }
+   #show2{
+    display: contents;
+   }
+   #type_text2{
+    display: none;
+   }
+   .ecosystem_heading_span{
+    text-align: center;
+   }
+}
+
+.breadcrumb_top {
+  font-size: 20px !important;
+}
+
+
+h5 {
+  text-transform: none !important;
+}

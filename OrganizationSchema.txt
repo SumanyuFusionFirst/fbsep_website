@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type":"Organization",
+"name": "Fusion Business Solution Private Limited",
+"url": "https://fusionfirst.com/",
+"logo": "https://www2023.fusionfirst.com/img/FBSPL/header/fbspllogo.svg",
+"description": "Fusion Business Solutions Private Limited (FBSPL) is an ITES and BPM company founded in 2006. We provide business process management and IT service delivery solutions to businesses worldwide.Aptly named, Fusion brings together different cultures, ideas, technology, innovation, and ethnicities to impact how businesses operate. Keeping U first is its mantra, and it is equally applied to FBSPL's team members, partners, clients, and service providers.",
+"address": {"@type": "PostalAddress","streetAddress": "F-37, IT Park",
+"addressLocality": "MIA Extension",
+"addressRegion": "Udaipur",
+"postalCode": "313002",
+"addressCountry": "India"},
+"contactPoint": {"@type": "ContactPoint",
+"contactType": "contact",
+"telephone": "977-227-9996",
+"email": "info@fusionfirst.com"},
+"areaServed": [{
+	  "@type": "Country",
+	  "name": ["United States", "United Kingdom", "Canada"]
+		}],
+"sameAs":["https://www.facebook.com/FBSPLTeam",
+"https://twitter.com/FBSPLTeam",
+"https://www.instagram.com/fbsplteam/",
+"https://www.linkedin.com/company/fbsplteam",
+"https://www.youtube.com/@FBSPLTeam"]
+} </script>

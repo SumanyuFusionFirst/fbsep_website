@@ -1,0 +1,87 @@
+Home Page - Done
+
+About Page:
+1. MD Sir Image and Linkedin Image pending -Done
+2. Our team Linkedin Images - Done
+
+Testimonials
+1. Industry pending
+
+Service Main:
+1. Image. content pending -Done
+
+Insurance:
+1. FAQ pending
+2. Link pending
+3. Case study Description for all pages
+
+RPO:
+1. Video Resize pending
+2. FAQ pending-done
+3. Link pending-done
+4. Button Round-done
+
+Accounting:
+1. FAQ pending-Done
+2. Link pending-Done
+3. Button Round-Done
+
+Data Annotation:
+1. FAQ pending-Done
+2. Link pending-Done
+3. Button Round-Done
+4. icons pending
+
+Healthcare:
+1. Entire page content needed
+2. Benefits Icon
+3. Smooth onboarding icons
+4. FAQ pending - Done
+5. Link pending - Done
+6. Button Round - Done
+
+Customer:
+1. Benefits Icon-Done
+2. FAQ pending-Done
+3. Link pending-Done
+4. Button Round-Done
+5. Video Pending-Done
+
+Cases:
+1. Image Resize pending -Done
+2. Cases main page description pending
+3. Mail and download functionlity pending
+
+CSR:
+1. Image - Done
+2. Content Pending
+
+Careers:
+1. Main Page content and images pending
+
+Current opening:
+1. Need to add all JD and Apply form 
+2. Experience for each job pending
+
+Blog Main:
+1. Images pending -Done
+
+Blog innerPage:
+1. Side bar pending - Done
+2. 2 blogs for services pending
+
+Contact Page - Done
+
+Free Consulation - Email and Label are pending
+
+Whole Website: Check every link and font size in button
+
+Footer:
+1. Email send pending
+2. Quick links for client needs to updates content
+3. Footer copy right line format pending
+
+life@fusion:
+1. Entire page pending
+
+

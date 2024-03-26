@@ -1,0 +1,1821 @@
+{
+  "urls": [
+    {
+      "unexistUrl": "$baseurl2/services/business-process-outsourcing-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/accounting-bookkeeping-support-services",
+      "existUrl": "$baseurl2/accounting-bookkeeping-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/accounting-and-bookkeeping-management",
+      "existUrl": "$baseurl2/accounting-bookkeeping-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/insurance-support-service",
+      "existUrl": "$baseurl2/insurance-bpo-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/data-processing-services",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/index",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/funfusion",
+      "existUrl": "$baseurl2/life-at-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/life-at-fusion",
+      "existUrl": "$baseurl2/life-at-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/about-us",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/our-team",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/our-story",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/madhukar-dubey",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/healthcare-bpo-support-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/healthcare-business-process-management",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/cases",
+      "existUrl": "$baseurl2/case-studies"
+    },
+    {
+      "unexistUrl": "$baseurl2/bpm-case-studies",
+      "existUrl": "$baseurl2/case-studies"
+    },
+    {
+      "unexistUrl": "$baseurl2/madhukar-dubey",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-are-the-best-insurance-claim-management-software-in-2023",
+      "existUrl": "$baseurl2/blog/what-are-the-best-insurance-claim-management-software-in-2023"
+    },
+    {
+      "unexistUrl": "$baseurl2/future-of-outsourcing-talent-acquisition",
+      "existUrl": "$baseurl2/blog/future-of-outsourcing-talent-acquisition"
+    },
+    {
+      "unexistUrl": "$baseurl2/in-house-vs-outsourcing-which-solution-is-best-for-your-ecommerce-business",
+      "existUrl": "$baseurl2/blog/in-house-vs-outsourcing-which-solution-is-best-for-your-ecommerce-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-should-you-opt-for-fbspl-as-your-business-process-outsourcing-partner",
+      "existUrl": "$baseurl2/blog/why-should-you-opt-for-fbspl-as-your-business-process-outsourcing-partner"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-develop-the-best-work-environment-for-your-team-members",
+      "existUrl": "$baseurl2/blog/how-to-develop-the-best-work-environment-for-your-team-members"
+    },
+    {
+      "unexistUrl": "$baseurl2/increase-efficiency-by-outsourcing-bookkeeping-or-accounting-services",
+      "existUrl": "$baseurl2/blog/increase-efficiency-by-outsourcing-bookkeeping-or-accounting-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-data-management-benefits-the-insurance-agencies",
+      "existUrl": "$baseurl2/blog/how-data-management-benefits-the-insurance-agencies"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-can-healthcare-providers-improve-patient-experience",
+      "existUrl": "$baseurl2/blog/how-can-healthcare-providers-improve-patient-experience"
+    },
+    {
+      "unexistUrl": "$baseurl2/insurance-outsourcing-an-arising-new-industry",
+      "existUrl": "$baseurl2/blog/insurance-outsourcing-an-arising-new-industry"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-is-vendor-management-system-in-hr-and-recruitment",
+      "existUrl": "$baseurl2/blog/what-is-vendor-management-system-in-hr-and-recruitment"
+    },
+    {
+      "unexistUrl": "$baseurl2/recruitment-process-outsourcing-is-it-a-recent-trend-in-hr",
+      "existUrl": "$baseurl2/blog/recruitment-process-outsourcing-is-it-a-recent-trend-in-hr"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-does-a-customer-service-bpo-help-in-boosting-companys-growth",
+      "existUrl": "$baseurl2/blog/how-does-a-customer-service-bpo-help-in-boosting-companys-growth"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-industry-has-the-greatest-need-for-virtual-assistants",
+      "existUrl": "$baseurl2/blog/what-industry-has-the-greatest-need-for-virtual-assistants"
+    },
+    {
+      "unexistUrl": "$baseurl2/do-you-need-a-customer-service-bpo",
+      "existUrl": "$baseurl2/blog/do-you-need-a-customer-service-bpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities",
+      "existUrl": "$baseurl2/blog/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities"
+    },
+    {
+      "unexistUrl": "$baseurl2/steps-turn-insurance-startup-successful-business",
+      "existUrl": "$baseurl2/blog/steps-turn-insurance-startup-successful-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-business-process-management-helps-in-healthcare-processes-fbspl",
+      "existUrl": "$baseurl2/blog/how-business-process-management-helps-in-healthcare-processes-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/support-tasks-to-outsource-in-healthcare-industry",
+      "existUrl": "$baseurl2/blog/support-tasks-to-outsource-in-healthcare-industry"
+    },
+    {
+      "unexistUrl": "$baseurl2/quick-guide-on-how-rpo-providers-hire-best-remote-staff-for-your-business",
+      "existUrl": "$baseurl2/blog/quick-guide-on-how-rpo-providers-hire-best-remote-staff-for-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/3-questions-to-ask-when-outsourcing-bookkeeping-or-accounting",
+      "existUrl": "$baseurl2/blog/3-questions-to-ask-when-outsourcing-bookkeeping-or-accounting"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-psychology-affects-the-voice-support-customer-experience",
+      "existUrl": "$baseurl2/blog/how-psychology-affects-the-voice-support-customer-experience"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-success-with-customer-service",
+      "existUrl": "$baseurl2/blog/business-success-with-customer-service"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/pre-sales-support-services",
+      "existUrl": "$baseurl2/customer-support-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/the-manifest-recognizes-fusion-business-solutions-p-limited-as-one-of-the-most-reviewed-bpo-companies-globally",
+      "existUrl": "$baseurl2/blog/the-manifest-recognizes-fusion-business-solutions-p-limited-as-one-of-the-most-reviewed-bpo-companies-globally"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/software-mobile-web-development-services",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/healthcare-bpo-support-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-develop-the-best-work-environment-for-your-employees",
+      "existUrl": "$baseurl2/blog/how-to-develop-the-best-work-environment-for-your-team-members"
+    },
+    {
+      "unexistUrl": "$baseurl2/trial",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/our-story/madhukar-dubey",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/software-mobile-web-development-services",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/about-us/testimonials/",
+      "existUrl": "$baseurl2/client-testimonial-reviews"
+    },
+    {
+      "unexistUrl": "$baseurl2/home/gdpr",
+      "existUrl": "$baseurl2/gdpr"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/recruitment-process-outsourcing-solutions",
+      "existUrl": "$baseurl2/recruitment-outsourcing-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-are-certificates-of-insurance-essential-in-any-of-the-business",
+      "existUrl": "$baseurl2/blog/why-are-certificates-of-insurance-essential-in-any-of-the-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-bpo-helps-in-the-smooth-functioning-of-an-insurance-agency",
+      "existUrl": "$baseurl2/blog/how-bpo-helps-in-the-smooth-functioning-of-an-insurance-agency"
+    },
+    {
+      "unexistUrl": "$baseurl2/building-business-with-fusion",
+      "existUrl": "$baseurl2/blog/building-business-with-fusion"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistance-for-healthcare-business-management-tips-from-experts",
+      "existUrl": "$baseurl2/blog/virtual-assistance-for-healthcare-business-management-tips-from-experts"
+    },
+    {
+      "unexistUrl": "$baseurl2/next-big-thing-in-healthcare-services",
+      "existUrl": "$baseurl2/blog/next-big-thing-in-healthcare-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/factors-influencing-healthcare-industry-outsource",
+      "existUrl": "$baseurl2/blog/factors-influencing-healthcare-industry-outsource"
+    },
+    {
+      "unexistUrl": "$baseurl2/discover-the-top-5-advantages-of-rpo-solutions-suggested-by-the-leaders",
+      "existUrl": "$baseurl2/blog/discover-the-top-5-advantages-of-rpo-solutions-suggested-by-the-leaders"
+    },
+    {
+      "unexistUrl": "$baseurl2/rpo-secret-weapon-recruitment-agency-success",
+      "existUrl": "$baseurl2/blog/rpo-secret-weapon-recruitment-agency-success"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-benefits-of-outsourcing-your-accounting-finance",
+      "existUrl": "$baseurl2/blog/5-benefits-of-outsourcing-your-accounting-finance"
+    },
+    {
+      "unexistUrl": "$baseurl2/organizationschema.txt",
+      "existUrl": "$baseurl2/OrganizationSchema.txt"
+    },
+    {
+      "unexistUrl": "$baseurl2/services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-business-solution-clutch-5-star-rating",
+      "existUrl": "$baseurl2/blog/fusion-business-solution-clutch-5-star-rating"
+    },
+    {
+      "unexistUrl": "$baseurl2/request-a-consultation",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/career",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-to-expect-from-a-business-process-outsourcing-services-provider",
+      "existUrl": "$baseurl2/blog/what-to-expect-from-a-business-process-outsourcing-services-provider"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-common-misconceptions-about-business-process-outsourcing-that-must-be-debunked",
+      "existUrl": "$baseurl2/blog/5-common-misconceptions-about-business-process-outsourcing-that-must-be-debunked"
+    },
+    {
+      "unexistUrl": "$baseurl2/time-management-tricks-for-busy-people",
+      "existUrl": "$baseurl2/blog/time-management-tricks-for-busy-people"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-consider-outsourcing-data-management-services-to-a-bpo",
+      "existUrl": "$baseurl2/blog/why-consider-outsourcing-data-management-services-to-a-bpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/hiring-virtual-assistant-for-business-safe-or-risky",
+      "existUrl": "$baseurl2/blog/hiring-virtual-assistant-for-business-safe-or-risky"
+    },
+    {
+      "unexistUrl": "$baseurl2/a-typical-day-in-life-of-virtual-assistant",
+      "existUrl": "$baseurl2/blog/a-typical-day-in-life-of-virtual-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/heres-how-virtual-assistants-skyrocket-your-business-growth",
+      "existUrl": "$baseurl2/blog/heres-how-virtual-assistants-skyrocket-your-business-growth"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-is-data-management-importance-challenges-for-businesses",
+      "existUrl": "$baseurl2/blog/what-is-data-management-importance-challenges-for-businesses"
+    },
+    {
+      "unexistUrl": "$baseurl2/tips-for-managing-offshore-teams",
+      "existUrl": "$baseurl2/blog/tips-for-managing-offshore-teams"
+    },
+    {
+      "unexistUrl": "$baseurl2/best-practices-for-healthcare-support-services",
+      "existUrl": "$baseurl2/blog/best-practices-for-healthcare-support-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-use-quickbooks-for-your-business-and-how-is-it-different-from-other-accounting-software",
+      "existUrl": "$baseurl2/blog/how-to-use-quickbooks-for-your-business-and-how-is-it-different-from-other-accounting-software"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-a-recession-is-the-best-time-for-outsourcing-and-top-5-industries-to-benefit-from-it",
+      "existUrl": "$baseurl2/blog/why-a-recession-is-the-best-time-for-outsourcing-and-top-5-industries-to-benefit-from-it"
+    },
+    {
+      "unexistUrl": "$baseurl2/find-if-accounts-receivable-outsourcing-is-right-for-your-business",
+      "existUrl": "$baseurl2/blog/find-if-accounts-receivable-outsourcing-is-right-for-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-benefits-of-outsourcing-employee-benefits-management",
+      "existUrl": "$baseurl2/blog/7-benefits-of-outsourcing-employee-benefits-management"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-10-lead-generation-techniques-for-accounting-and-bookkeeping",
+      "existUrl": "$baseurl2/blog/top-10-lead-generation-techniques-for-accounting-and-bookkeeping"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-increase-medical-billing-collection-for-your-healthcare-business",
+      "existUrl": "$baseurl2/blog/how-to-increase-medical-billing-collection-for-your-healthcare-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/basic-comprehensive-guide-to-data-annotation-services-and-labelling-in-machine-learning-artificial-intelligence",
+      "existUrl": "$baseurl2/blog/basic-comprehensive-guide-to-data-annotation-services-and-labelling-in-machine-learning-artificial-intelligence"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-5-reasons-to-choose-a-business-process-management-consultant-for-your-organization",
+      "existUrl": "$baseurl2/blog/top-5-reasons-to-choose-a-business-process-management-consultant-for-your-organization"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-social-media-strategies",
+      "existUrl": "$baseurl2/blog/top-social-media-strategies"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-business-solution-clutch-5-star-rating",
+      "existUrl": "$baseurl2/blog/fusion-business-solution-clutch-5-star-rating"
+    },
+    {
+      "unexistUrl": "$baseurl2/11-advantages-a-virtual-assistant-brings-to-your-team",
+      "existUrl": "$baseurl2/blog/benefits-of-hiring-a-virtual-assistant-in-your-team"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-omnichannel-services-improve-customer-service",
+      "existUrl": "$baseurl2/blog/how-omnichannel-services-improve-customer-service"
+    },
+    {
+      "unexistUrl": "$baseurl2/own-a-40-cost-reduction-in-your-business-by-outsourcing",
+      "existUrl": "$baseurl2/blog/how-to-do-cost-reduction-by-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/merchant-cash-advance-know-if-it-is-right-for-your-business-or-not/",
+      "existUrl": "$baseurl2/blog/merchant-cash-advance-for-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/10-tips-to-handle-competition-in-business",
+      "existUrl": "$baseurl2/blog/tips-to-handle-competition-in-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/tasks-you-can-outsource-to-virtual-assistant-services-provider",
+      "existUrl": "$baseurl2/blog/tasks-to-outsource-to-virtual-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-reasons-to-adopt-an-omnichannel-customer-support-strategy-for-your-business",
+      "existUrl": "$baseurl2/blog/reasons-to-adopt-an-omnichannel-customer-support-strategy-for-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/heres-why-you-should-outsource-data-processing-services",
+      "existUrl": "$baseurl2/blog/why-you-should-outsource-data-processing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistants-a-reason-behind-the-success",
+      "existUrl": "$baseurl2/blog/virtual-assistants-a-reason-behind-the-success"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-tips-to-expand-your-business-overseas-smoothly",
+      "existUrl": "$baseurl2/blog/4-tips-to-expand-your-business-overseas-smoothly"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-best-security-practices-while-managing-remote-teams",
+      "existUrl": "$baseurl2/blog/5-best-security-practices-while-managing-remote-teams"
+    },
+    {
+      "unexistUrl": "$baseurl2/tips-to-keep-virtual-assistants-motivated",
+      "existUrl": "$baseurl2/blog/5-explicit-tips-on-keeping-virtual-assistants-motivated"
+    },
+    {
+      "unexistUrl": "$baseurl2/misconceptions-about-outsourcing",
+      "existUrl": "$baseurl2/blog/7-greatest-misconceptions-about-outsourcing-smashed-with-affirmation"
+    },
+    {
+      "unexistUrl": "$baseurl2/leadership-at-workplace",
+      "existUrl": "$baseurl2/blog/leadership-at-workplace-know-how-to-make-leaders-of-tomorrow"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-it-is-essential-to-outsource-logistics-bpo-service",
+      "existUrl": "$baseurl2/blog/know-why-it-is-essential-to-outsource-logistics-bpo-service"
+    },
+    {
+      "unexistUrl": "$baseurl2/purpose-and-fundamental-advantages-of-outsourcing-it",
+      "existUrl": "$baseurl2/blog/it-outsourcing-get-to-know-the-purpose-and-fundamental-advantages"
+    },
+    {
+      "unexistUrl": "$baseurl2/reasons-why-recruitment-agencies-use-rpo",
+      "existUrl": "$baseurl2/blog/for-what-reason-should-recruitment-agencies-use-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-scaling-and-growth-bringing-the-prime-difference-in-spotlight",
+      "existUrl": "$baseurl2/blog/business-scaling-and-growth"
+    },
+    {
+      "unexistUrl": "$baseurl2/benefits-of-hiring-a-virtual-assistant-for-real-estate-business",
+      "existUrl": "$baseurl2/blog/benefits-of-hiring-a-virtual-assistant-for-real-estate-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/happy-international-girl-child-day",
+      "existUrl": "$baseurl2/blog/happy-international-girl-child-day"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-digital-business-services-are-essential-to-survive-in-the-challenging-times",
+      "existUrl": "$baseurl2/blog/why-digital-business-services-are-essential-to-survive-in-the-challenging-times"
+    },
+    {
+      "unexistUrl": "$baseurl2/see-how-outsourcing-has-evolved-recent-trends-of-2021",
+      "existUrl": "$baseurl2/blog/see-how-outsourcing-has-evolved-recent-trends-of-2021"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-can-we-successfully-control-attrition",
+      "existUrl": "$baseurl2/blog/how-can-we-successfully-control-attrition"
+    },
+    {
+      "unexistUrl": "$baseurl2/benefits-of-omnichannel-customer-support",
+      "existUrl": "$baseurl2/blog/benefits-of-omnichannel-customer-support"
+    },
+    {
+      "unexistUrl": "$baseurl2/supply-chain-lessons-from-2020",
+      "existUrl": "$baseurl2/blog/supply-chain-lessons"
+    },
+    {
+      "unexistUrl": "$baseurl2/selling-on-amazon-rewarding-or-an-uphill-battle",
+      "existUrl": "$baseurl2/blog/selling-on-amazon-rewarding-or-an-uphill-battle"
+    },
+    {
+      "unexistUrl": "$baseurl2/amazon-sellers-winning-the-technology-using-virtual-assistance",
+      "existUrl": "$baseurl2/blog/amazon-sellers-and-virtual-assistance"
+    },
+    {
+      "unexistUrl": "$baseurl2/work-from-home-a-basic-guideline",
+      "existUrl": "$baseurl2/blog/work-from-home-a-basic-guideline"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-employ-a-virtual-assistant-for-an-ecommerce-business",
+      "existUrl": "$baseurl2/blog/how-to-employ-a-virtual-assistant-for-an-ecommerce-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-smbs-can-leverage-virtual-assistant-services-during-the-pandemic",
+      "existUrl": "$baseurl2/blog/how-smbs-can-leverage-virtual-assistant-services-during-the-pandemic"
+    },
+    {
+      "unexistUrl": "$baseurl2/clutch-crowned-fusion-business-solutions-pvt-ltd-as-top-indian-bpo-company-for-2021",
+      "existUrl": "$baseurl2/blog/clutch-crowned-fusion-business-solutions-pvt-ltd-as-top-indian-bpo-company"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-invests-in-blowhorn",
+      "existUrl": "$baseurl2/blog/fusion-invests-in-blowhorn"
+    },
+    {
+      "unexistUrl": "$baseurl2/effective-work-from-home-tips-to-keep-your-family-safe",
+      "existUrl": "$baseurl2/blog/effective-work-from-home-tips-to-keep-your-family-safe"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-invests-in-small-bag-delivery",
+      "existUrl": "$baseurl2/blog/fusion-invests-in-small-bag-delivery"
+    },
+    {
+      "unexistUrl": "$baseurl2/offshore-outsourcing-during-money-crunch",
+      "existUrl": "$baseurl2/blog/offshore-outsourcing-during-money-crunch"
+    },
+    {
+      "unexistUrl": "$baseurl2/easy-ways-to-deal-with-unstructured-data",
+      "existUrl": "$baseurl2/blog/easy-ways-to-deal-with-unstructured-data"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-virtual-assistant-support-can-improve-customer-service",
+      "existUrl": "$baseurl2/blog/how-virtual-assistant-support-can-improve-customer-service"
+    },
+    {
+      "unexistUrl": "$baseurl2/partnership-with-bpo-first-step-on-success-ladder",
+      "existUrl": "$baseurl2/blog/why-to-partnership-with-bpo-provider"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-world-outsourcing-companies",
+      "existUrl": "$baseurl2/blog/business-world-outsourcing-companies"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how-3rd-edition",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how-3rd-edition"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-services-to-outsource-to-a-personal-assistant",
+      "existUrl": "$baseurl2/blog/top-services-to-outsource-to-a-personal-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/to-improve-sales-pay-more-attention-to-pre-sales",
+      "existUrl": "$baseurl2/blog/how-to-improve-sales-with-pre-sales-bpo-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities",
+      "existUrl": "$baseurl2/blog/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-reasons-why-most-companies-are-hiring-a-virtual-assistant",
+      "existUrl": "$baseurl2/blog/reasons-why-companies-hire-a-virtual-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/featured-in-silicon-india-magazine-among-10-most-promising-personal-assistant-service-providers-2018",
+      "existUrl": "$baseurl2/blog/featured-in-silicon-india-magazine-among-10-most-promising-personal-assistant-service-providers"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-social-media-strategies-for-2018",
+      "existUrl": "$baseurl2/blog/top-social-media-strategies-for-2018"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-advanced-business-trends-that-you-must-consider-in-2020",
+      "existUrl": "$baseurl2/blog/business-trends-that-you-must-consider"
+    },
+    {
+      "unexistUrl": "$baseurl2/outsourcing-ecommerce-services-scales-up-business",
+      "existUrl": "$baseurl2/blog/outsourcing-ecommerce-services-scales-up-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-business-process-management-helps-in-healthcare-processes-fbspl/",
+      "existUrl": "$baseurl2/blog/how-business-process-management-helps-in-healthcare-processes-fbspl/"
+    },
+    {
+      "unexistUrl": "$baseurl2/benefits-of-hiring-a-virtual-assistant-in-your-team/",
+      "existUrl": "$baseurl2/blog/benefits-of-hiring-a-virtual-assistant-in-your-team/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-omnichannel-services-improve-customer-service/",
+      "existUrl": "$baseurl2/blog/how-omnichannel-services-improve-customer-service/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-do-cost-reduction-by-outsourcing/",
+      "existUrl": "$baseurl2/blog/how-to-do-cost-reduction-by-outsourcing/"
+    },
+    {
+      "unexistUrl": "$baseurl2/merchant-cash-advance-for-your-business/",
+      "existUrl": "$baseurl2/blog/merchant-cash-advance-for-your-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/tips-to-handle-competition-in-business/",
+      "existUrl": "$baseurl2/blog/tips-to-handle-competition-in-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/tasks-to-outsource-to-virtual-assistant/",
+      "existUrl": "$baseurl2/blog/tasks-to-outsource-to-virtual-assistant/"
+    },
+    {
+      "unexistUrl": "$baseurl2/reasons-to-adopt-an-omnichannel-customer-support-strategy-for-your-business/",
+      "existUrl": "$baseurl2/blog/reasons-to-adopt-an-omnichannel-customer-support-strategy-for-your-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-you-should-outsource-data-processing-services/",
+      "existUrl": "$baseurl2/blog/why-you-should-outsource-data-processing-services/"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistants-a-reason-behind-the-success/",
+      "existUrl": "$baseurl2/blog/virtual-assistants-a-reason-behind-the-success/"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-tips-to-expand-your-business-overseas-smoothly/",
+      "existUrl": "$baseurl2/blog/4-tips-to-expand-your-business-overseas-smoothly/"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-best-security-practices-while-managing-remote-teams/",
+      "existUrl": "$baseurl2/blog/5-best-security-practices-while-managing-remote-teams/"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-explicit-tips-on-keeping-virtual-assistants-motivated/",
+      "existUrl": "$baseurl2/blog/5-explicit-tips-on-keeping-virtual-assistants-motivated/"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-greatest-misconceptions-about-outsourcing-smashed-with-affirmation/",
+      "existUrl": "$baseurl2/blog/7-greatest-misconceptions-about-outsourcing-smashed-with-affirmation/"
+    },
+    {
+      "unexistUrl": "$baseurl2/leadership-at-workplace-know-how-to-make-leaders-of-tomorrow/",
+      "existUrl": "$baseurl2/blog/leadership-at-workplace-know-how-to-make-leaders-of-tomorrow/"
+    },
+    {
+      "unexistUrl": "$baseurl2/know-why-it-is-essential-to-outsource-logistics-bpo-service/",
+      "existUrl": "$baseurl2/blog/know-why-it-is-essential-to-outsource-logistics-bpo-service/"
+    },
+    {
+      "unexistUrl": "$baseurl2/it-outsourcing-get-to-know-the-purpose-and-fundamental-advantages/",
+      "existUrl": "$baseurl2/blog/it-outsourcing-get-to-know-the-purpose-and-fundamental-advantages/"
+    },
+    {
+      "unexistUrl": "$baseurl2/for-what-reason-should-recruitment-agencies-use-rpo/",
+      "existUrl": "$baseurl2/blog/for-what-reason-should-recruitment-agencies-use-rpo/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-scaling-and-growth/",
+      "existUrl": "$baseurl2/blog/business-scaling-and-growth/"
+    },
+    {
+      "unexistUrl": "$baseurl2/benefits-of-hiring-a-virtual-assistant-for-real-estate-business/",
+      "existUrl": "$baseurl2/blog/benefits-of-hiring-a-virtual-assistant-for-real-estate-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/happy-international-girl-child-day/",
+      "existUrl": "$baseurl2/blog/happy-international-girl-child-day/"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-digital-business-services-are-essential-to-survive-in-the-challenging-times/",
+      "existUrl": "$baseurl2/blog/why-digital-business-services-are-essential-to-survive-in-the-challenging-times/"
+    },
+    {
+      "unexistUrl": "$baseurl2/key-benefits-of-outsourcing-your-accounting-functions/",
+      "existUrl": "$baseurl2/blog/key-benefits-of-outsourcing-your-accounting-functions/"
+    },
+    {
+      "unexistUrl": "$baseurl2/see-how-outsourcing-has-evolved-recent-trends-of-2021/",
+      "existUrl": "$baseurl2/blog/see-how-outsourcing-has-evolved-recent-trends-of-2021/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-can-we-successfully-control-attrition/",
+      "existUrl": "$baseurl2/blog/how-can-we-successfully-control-attrition/"
+    },
+    {
+      "unexistUrl": "$baseurl2/benefits-of-omnichannel-customer-support/",
+      "existUrl": "$baseurl2/blog/benefits-of-omnichannel-customer-support/"
+    },
+    {
+      "unexistUrl": "$baseurl2/supply-chain-lessons/",
+      "existUrl": "$baseurl2/blog/supply-chain-lessons/"
+    },
+    {
+      "unexistUrl": "$baseurl2/amazon-sellers-and-virtual-assistance/",
+      "existUrl": "$baseurl2/blog/amazon-sellers-and-virtual-assistance/"
+    },
+    {
+      "unexistUrl": "$baseurl2/selling-on-amazon-rewarding-or-an-uphill-battle/",
+      "existUrl": "$baseurl2/blog/selling-on-amazon-rewarding-or-an-uphill-battle/"
+    },
+    {
+      "unexistUrl": "$baseurl2/work-from-home-a-basic-guideline/",
+      "existUrl": "$baseurl2/blog/work-from-home-a-basic-guideline/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-employ-a-virtual-assistant-for-an-ecommerce-business/",
+      "existUrl": "$baseurl2/blog/how-to-employ-a-virtual-assistant-for-an-ecommerce-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-smbs-can-leverage-virtual-assistant-services-during-the-pandemic/",
+      "existUrl": "$baseurl2/blog/how-smbs-can-leverage-virtual-assistant-services-during-the-pandemic/"
+    },
+    {
+      "unexistUrl": "$baseurl2/clutch-crowned-fusion-business-solutions-pvt-ltd-as-top-indian-bpo-company/",
+      "existUrl": "$baseurl2/blog/clutch-crowned-fusion-business-solutions-pvt-ltd-as-top-indian-bpo-company/"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-invests-in-blowhorn/",
+      "existUrl": "$baseurl2/blog/fusion-invests-in-blowhorn/"
+    },
+    {
+      "unexistUrl": "$baseurl2/effective-work-from-home-tips-to-keep-your-family-safe/",
+      "existUrl": "$baseurl2/blog/effective-work-from-home-tips-to-keep-your-family-safe/"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-invests-in-small-bag-delivery/",
+      "existUrl": "$baseurl2/blog/fusion-invests-in-small-bag-delivery/"
+    },
+    {
+      "unexistUrl": "$baseurl2/ways-ensure-remote-team-happy-productive/",
+      "existUrl": "$baseurl2/blog/ways-ensure-remote-team-happy-productive/"
+    },
+    {
+      "unexistUrl": "$baseurl2/offshore-outsourcing-during-money-crunch/",
+      "existUrl": "$baseurl2/blog/offshore-outsourcing-during-money-crunch/"
+    },
+    {
+      "unexistUrl": "$baseurl2/easy-ways-to-deal-with-unstructured-data/",
+      "existUrl": "$baseurl2/blog/easy-ways-to-deal-with-unstructured-data/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-virtual-assistant-support-can-improve-customer-service/",
+      "existUrl": "$baseurl2/blog/how-virtual-assistant-support-can-improve-customer-service/"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-to-partnership-with-bpo-provider/",
+      "existUrl": "$baseurl2/blog/why-to-partnership-with-bpo-provider/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-world-outsourcing-companies/",
+      "existUrl": "$baseurl2/blog/business-world-outsourcing-companies/"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how-3rd-edition/",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how-3rd-edition/"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-services-to-outsource-to-a-personal-assistant/",
+      "existUrl": "$baseurl2/blog/top-services-to-outsource-to-a-personal-assistant/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-improve-sales-with-pre-sales-bpo-services/",
+      "existUrl": "$baseurl2/blog/how-to-improve-sales-with-pre-sales-bpo-services/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities/",
+      "existUrl": "$baseurl2/blog/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities/"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how/",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how/"
+    },
+    {
+      "unexistUrl": "$baseurl2/reasons-why-companies-hire-a-virtual-assistant/",
+      "existUrl": "$baseurl2/blog/reasons-why-companies-hire-a-virtual-assistant/"
+    },
+    {
+      "unexistUrl": "$baseurl2/featured-in-silicon-india-magazine-among-10-most-promising-personal-assistant-service-providers/",
+      "existUrl": "$baseurl2/blog/featured-in-silicon-india-magazine-among-10-most-promising-personal-assistant-service-providers/"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistants-know/",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know/"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-social-media-strategies/",
+      "existUrl": "$baseurl2/blog/top-social-media-strategies/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-trends-that-you-must-consider/",
+      "existUrl": "$baseurl2/blog/business-trends-that-you-must-consider/"
+    },
+    {
+      "unexistUrl": "$baseurl2/outsourcing-ecommerce-services-scales-up-business/",
+      "existUrl": "$baseurl2/blog/outsourcing-ecommerce-services-scales-up-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-remote-staff-can-help-you-in-business-development/",
+      "existUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-personal-assistant-services-can-help-you-grow-your-business/",
+      "existUrl": "$baseurl2/blog/how-personal-assistant-services-can-help-you-grow-your-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-force-for-your-business-a-plus-or-a-bluff/",
+      "existUrl": "$baseurl2/blog/virtual-force-for-your-business-a-plus-or-a-bluff/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-activities-you-can-outsource-to-save-time-money/",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money/"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-easy-steps-to-streamline-your-business-process/",
+      "existUrl": "$baseurl2/blog/5-easy-steps-to-streamline-your-business-process/"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition/",
+      "existUrl": "$baseurl2/blog/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition/"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-powerful-business-tips-for-entrepreneur/",
+      "existUrl": "$baseurl2/blog/7-powerful-business-tips-for-entrepreneur/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-outsourcing-helps-startups-grow-their-businesses/",
+      "existUrl": "$baseurl2/blog/how-outsourcing-helps-startups-grow-their-businesses/"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-reasons-why-should-you-outsource-recruitment/",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-most-americans-choose-business-process-outsourcing-companies/",
+      "existUrl": "$baseurl2/blog/why-most-americans-choose-business-process-outsourcing-companies/"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-reasons-why-to-outsource-customer-service/",
+      "existUrl": "$baseurl2/blog/4-reasons-why-to-outsource-customer-service/"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-types-of-businesses-that-can-benefit-from-business-consulting-services/",
+      "existUrl": "$baseurl2/blog/5-types-of-businesses-that-can-benefit-from-business-consulting-services/"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-should-you-choose-business-consulting-services-in-usa/",
+      "existUrl": "$baseurl2/blog/why-should-you-choose-business-consulting-services-in-usa/"
+    },
+    {
+      "unexistUrl": "$baseurl2/create-your-own-dream-remote-team/",
+      "existUrl": "$baseurl2/blog/create-your-own-dream-remote-team/"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion-invests-in-jivana-link/",
+      "existUrl": "$baseurl2/blog/fusion-invests-in-jivana-link/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-remote-staff-can-help-you-in-business-development/",
+      "existUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development/"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-personal-assistant-services-can-help-you-grow-your-business",
+      "existUrl": "$baseurl2/blog/how-personal-assistant-services-can-help-you-grow-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-force-for-your-business-a-plus-or-a-bluff",
+      "existUrl": "$baseurl2/blog/virtual-force-for-your-business-a-plus-or-a-bluff"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-activities-you-can-outsource-to-save-time-money",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-easy-steps-to-streamline-your-business-process",
+      "existUrl": "$baseurl2/blog/5-easy-steps-to-streamline-your-business-process"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition",
+      "existUrl": "$baseurl2/blog/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-powerful-business-tips-every-entrepreneur-needs-to-consider",
+      "existUrl": "$baseurl2/blog/7-powerful-business-tips-for-entrepreneur"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-outsourcing-helps-startups-grow-their-businesses",
+      "existUrl": "$baseurl2/blog/how-outsourcing-helps-startups-grow-their-businesses"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-reasons-why-should-you-outsource-recruitment",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-most-americans-choose-business-process-outsourcing-companies",
+      "existUrl": "$baseurl2/blog/why-most-americans-choose-business-process-outsourcing-companies"
+    },
+    {
+      "unexistUrl": "$baseurl2/4-reasons-why-should-you-outsource-your-customer-service",
+      "existUrl": "$baseurl2/blog/4-reasons-why-to-outsource-customer-service"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-types-of-businesses-that-can-benefit-from-business-consulting-services",
+      "existUrl": "$baseurl2/blog/5-types-of-businesses-that-can-benefit-from-business-consulting-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-should-you-choose-business-consulting-services-in-usa",
+      "existUrl": "$baseurl2/blog/why-should-you-choose-business-consulting-services-in-usa"
+    },
+    {
+      "unexistUrl": "$baseurl2/create-your-own-dream-remote-team",
+      "existUrl": "$baseurl2/blog/create-your-own-dream-remote-team"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistants-know",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know"
+    },
+    {
+      "unexistUrl": "$baseurl2/key-benefits-of-outsourcing-your-accounting-functions",
+      "existUrl": "$baseurl2/blog/key-benefits-of-outsourcing-your-accounting-functions"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-to-use-quickbooks-for-your-business-&-how-is-it-different-from-other-accounting-software",
+      "existUrl": "$baseurl2/blog/how-to-use-quickbooks-for-your-business-and-how-is-it-different-from-other-accounting-software"
+    },
+    {
+      "unexistUrl": "$baseurl2/the-future-of-outsourced-talent-acquisition",
+      "existUrl": "$baseurl2/blog/future-of-outsourcing-talent-acquisition"
+    },
+    {
+      "unexistUrl": "$baseurl2/ways-ensure-remote-team-happy-productive",
+      "existUrl": "$baseurl2/blog/ways-ensure-remote-team-happy-productive"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/merchant-cash-advance-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/submit-guest-post",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/privacy-policy",
+      "existUrl": "$baseurl2/privacy-policy"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-virtual-assistant-services-can-help-you-grow-your-business/",
+      "existUrl": "$baseurl2/blog/how-personal-assistant-services-can-help-you-grow-your-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/senior-associate/",
+      "existUrl": "$baseurl2/career"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/associate-recruiter/",
+      "existUrl": "$baseurl2/career"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/10/31/virtual-assistant-virtual-assistant-know-how/",
+      "existUrl": "$baseurl2/blog/how-personal-assistant-services-can-help-you-grow-your-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/thankyou.html",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/contact-us/",
+      "existUrl": "$baseurl2/contact-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/12/06/outsourcing-ecommerce-services-scales-up-business/",
+      "existUrl": "$baseurl2/blog/outsourcing-ecommerce-services-scales-up-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/request-a-",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/?utm_source=google&utm_medium=cpc&gclid=cj0kcqjwkbukbhdrarisaalysv4qp-7fbalgvaf0r4na_yrsurkyqyqhfxekmz4s8mjrvs9hqp9isqiaarbzealw_wcb",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/how-to-use-quickBooks-for-your-business-&-how-is-it-different-from-other-accounting-software",
+      "existUrl": "$baseurl2/blog/how-to-use-quickbooks-for-your-business-and-how-is-it-different-from-other-accounting-software"
+    },
+    {
+      "unexistUrl": "$baseurl2/partnership-with-bpo-first-step-on-success-ladder/",
+      "existUrl": "$baseurl2/blog/why-to-partnership-with-bpo-provider"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/seo-executive/",
+      "existUrl": "$baseurl2/career"
+    },
+    {
+      "unexistUrl": "https://data-solutions.fusionfirst.com/cgi-sys/defaultwebpage.cgi",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/carousels-category/madhukar/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/hr-generalist/",
+      "existUrl": "$baseurl2/career"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?fbclid=iwar1trubdzupp9uvtqapsrtqywo_pimiwv0uxn6kobu3pm6cdzjpcvfrwtyy",
+      "existUrl": "$baseurl2/career"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/ecommerce-support-services/ecommerce-support/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/request-a",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/apply-now-2/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/mobile-app-development/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/mobile-app-development/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/outsourcing-ecommerce-services-scales-up-business/comment-page-1/",
+      "existUrl": "$baseurl2/blog/outsourcing-ecommerce-services-scales-up-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/mob/index?site=sasjp&ima=1632&aff=robo004",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services/?source=post_page---------------------------",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-activities-you-can-outsource-to-save-time-money/young-student-writing-tasks-items-isolated-on-white-background/",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money/"
+    },
+    {
+      "unexistUrl": "http://data-solutions.fusionfirst.com/cgi-sys/defaultwebpage.cgi",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?fbclid=iwar1yqyodnzkzlpvrjavz7cp52b7crjaciwvbhjy_xajqb_ueejvpsg8gfyk",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/hybrid-native-app-developer/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/voice-and-accent-trainer/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/ecommerce-support-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/01/09/virtual-assistant-services-offer-2019/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/consult-thankyou/",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/ecommerce-support-services/e-commerce-support-services2/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/ecommerce-support-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/01/04/tips-for-managing-offshore-teams/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?fbclid=IwAR1yQYodNzkzlPvRjAVz7cP52B7CrJACIwVbHJy_XajQb_uEeJvPSG8GFyk",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/gdpr",
+      "existUrl": "$baseurl2/gdpr"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-should-you-outsource-your-customer-service/4-reasons-why-should-you-outsource-your-customer-service/",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/featured-in-silicon-india-magazine-among-10-most-promising-virtual-assistant-service-providers-2018/",
+      "existUrl": "$baseurl2/blog/featured-in-silicon-india-magazine-among-10-most-promising-personal-assistant-service-providers"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-the-business-world-is-after-outsourcing-companies/",
+      "existUrl": "$baseurl2/business-world-outsourcing-companies/"
+    },
+    {
+      "unexistUrl": "https://www.www.fusionfirst.com/cgi-sys/defaultwebpage.cgi",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/fusion/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/11/21/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities/",
+      "existUrl": "$baseurl2/blog/how-to-benefit-your-business-by-outsourcing-bookkeeping-activities"
+    },
+    {
+      "unexistUrl": "$baseurl2/personal-assistant-services-offer-2019/",
+      "existUrl": "$baseurl2/blog/top-services-to-outsource-to-a-personal-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/remote-staffing-solutions/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-services-to-outsource-to-a-personal-assistant/comment-page-1/",
+      "existUrl": "$baseurl2/blog/top-services-to-outsource-to-a-personal-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/8-easy-steps-to-turn-your-insurance-startup-into-a-successful-business/",
+      "existUrl": "$baseurl2/blog/steps-turn-insurance-startup-successful-business/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/sales-development-representative/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/associate/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/omnichannel-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/bpm-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/top-9-services-to-outsource-to-a-personal-assistant-in-2019/",
+      "existUrl": "$baseurl2/blog/top-services-to-outsource-to-a-personal-assistant"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-consider-outsourcing-data-management-services-to-a-bpo/?unapproved=362&moderation-hash=aeecf36d6e877776cdb57f00bd11e0a6",
+      "existUrl": "$baseurl2/blog/why-consider-outsourcing-data-management-services-to-a-bpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/android-mobile-developers/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/market-research-analyst/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services/?fbclid=IwAR0x2AHZi5YWliO4MujuAvYCqW9UUNv7TDFKUeBB4mzO1zp26fpEG5Q9VCk",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services/?source=post_elevate_sequence_page---------------------------",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/08/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/software-mobile-web-development-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/?utm_source=google&utm_medium=cpc&gclid=Cj0KCQjwkbuKBhDRARIsAALysV4QP-7FbaLGvaF0R4Na_YRSURKyQyQHFXEkMz4s8mjRVs9HqP9IsQIaArbZEALw_wcB",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/php-mysql-developers/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/ppc-expert/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/current-opening-at-fbspl",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/omnichannel-customer-support-services/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/ecommerce-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/01/23/virtual-assistant-know-how-3rd-edition/",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how-3rd-edition"
+    },
+    {
+      "unexistUrl": "$baseurl2/freetrial",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/ecommerce-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/business-process-consulting-3/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how-3rd-edition/?fbclid=IwAR2ix0xN5bHiN9UICbZ6hU_TcI6gDEmAa4MAMtnyzXa1_BAZFDFfcZi16gU",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how-3rd-edition"
+    },
+    {
+      "unexistUrl": "$baseurl2/career-2022/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/inbound-voice-support-services/",
+      "existUrl": "$baseurl2/customer-support-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/real-estate-support-service/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?platform=hootsuite&utm_campaign=HSCampaign",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?platform=hootsuite&utm_campaign=hscampaign",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-common-misconceptions-about-business-process-outsourcing/business-process-outsourcing/",
+      "existUrl": "$baseurl2/blog/5-common-misconceptions-about-business-process-outsourcing-that-must-be-debunked"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/us-end-to-end-it-recruiter/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virtual-assistant-services/?gclid=EAIaIQobChMI4MXh_9zN4gIVy8myCh0yPw4DEAAYAiAAEgJRkfD_BwE",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/press-release-public-relation-and-media-relation-expert-executive/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/cadmiumize608800.html",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/terms-of-use/",
+      "existUrl": "$baseurl2/termofuse"
+    },
+    {
+      "unexistUrl": "$baseurl2/apply-now?clickid=trainee-associate&dept=3&position=TraineeAssociate",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/apply-now?clickid=trainee-associate&dept=3&position=traineeassociate",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/10-time-management-tricks-for-insanely-busy-people/",
+      "existUrl": "$baseurl2/blog/time-management-tricks-for-busy-people/"
+    },
+    {
+      "unexistUrl": "$baseurl2/our-story/madhukar-dubey/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/ui-ux-design-development-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/web-application-development-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/social-media-expert/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/hr-associate-generalist/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-common-misconceptions-about-business-process-outsourcing/",
+      "existUrl": "$baseurl2/blog/5-common-misconceptions-about-business-process-outsourcing-that-must-be-debunked/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/inbound-voice-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/real-estate-support-service/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?fbclid=IwAR1TrubDZupp9uVtqapsRtqywo_PIMIWv0Uxn6KOBU3pm6CDzJpCvFrWTyY",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/motion-graphic-designer/",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/01/03/to-improve-sales-pay-more-attention-to-pre-sales/",
+      "existUrl": "$baseurl2/blog/how-to-improve-sales-with-pre-sales-bpo-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/merchant-cash-advance-services/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/recruitment-support-services",
+      "existUrl": "$baseurl2/recruitment-outsourcing-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/rpo",
+      "existUrl": "$baseurl2/recruitment-outsourcing-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/10-support-tasks-to-outsource-in-healthcare-industry/",
+      "existUrl": "$baseurl2/blog/support-tasks-to-outsource-in-healthcare-industry/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/pre-sales-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/apply-now?dept=3&position=Associate",
+      "existUrl": "$baseurl2/current-openings"
+    },
+    {
+      "unexistUrl": "$baseurl2/mob/index.php?site=sasjp&ima=1632&aff=robo004",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/sitemap",
+      "existUrl": "$baseurl2/sitemap"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/recruitment-support-services/",
+      "existUrl": "$baseurl2/recruitment-outsourcing-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/carousels-category/madhukar/",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/?fbclid=IwAR0U7dp8tqskqGqjm4MO_7_XTCQNLwIPOEUGcxSsmkqN2ZUIxNGUDS3_1u8",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/about-us/our-team/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/page/2/",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-common-misconceptions-about-business-process-outsourcing/",
+      "existUrl": "$baseurl2/blog/5-common-misconceptions-about-business-process-outsourcing-that-must-be-debunked/"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/insurance-support-service/",
+      "existUrl": "$baseurl2/insurance-bpo-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-world-outsourcing-companies/?unapproved=363&moderation-hash=0b171bd6d4633dbf31f8671e9d75b2d6",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/ecommerce-support-services/e-commerce-support-services2/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/mobile-app-development/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistant-know-how-1st-edition/",
+      "existUrl": "$baseurl2/blog/virtual-assistant-know-how/"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/01/11/create-your-own-dream-remote-team/",
+      "existUrl": "$baseurl2/blog/create-your-own-dream-remote-team/"
+    },
+    {
+      "unexistUrl": "$baseurl2/press-releases.htm",
+      "existUrl": "$baseurl2/"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/recruitment-support-services/recruitment/",
+      "existUrl": "$baseurl2/recruitment-outsourcing-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/testimonials/",
+      "existUrl": "$baseurl2/client-testimonial-reviews"
+    },
+    {
+      "unexistUrl": "$baseurl2/testimonials-and-reviews",
+      "existUrl": "$baseurl2/client-testimonial-reviews"
+    },
+    {
+      "unexistUrl": "$baseurl2/csr",
+      "existUrl": "$baseurl2/csr-social-responsibilities"
+    },
+    {
+      "unexistUrl": "$baseurl2/get-free-consultation",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/request-a-consultation",
+      "existUrl": "$baseurl2/book-free-consultation-call"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/us-end-to-end-non-it-recruiter/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-process-outsourcing-services/?ref=producthunt",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/creative-copy-and-content-writer/",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/privacy-policy",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-smbs-can-leverage",
+      "existUrl": "$baseurl2/blog/how-smbs-can-leverage-virtual-assistant-services-during-the-pandemic"
+    },
+    {
+      "unexistUrl": "$baseurl2/cgi-sys/defaultwebpage.cgi",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/faq",
+      "existUrl": "$baseurl2/faqs"
+    },
+    {
+      "unexistUrl": "$baseurl2/insurance-business-process-management",
+      "existUrl": "$baseurl2/insurance-bpo-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl2/testimonial-and-reviews",
+      "existUrl": "$baseurl2/client-testimonial-reviews"
+    },
+    {
+      "unexistUrl": "$baseurl2/rocking-the-insurance-operations-with-the-best-practices-with-fbspl-experts",
+      "existUrl": "$baseurl2/podcast"
+    },
+    {
+      "unexistUrl": "$baseurl2/contact",
+      "existUrl": "$baseurl2/contact-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl/img/FBSPL/poster/insuranceposter.png",
+      "existUrl": "$baseurl2/insurance-bpo-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl/video/RPOFBSPLFinal.webm",
+      "existUrl": "$baseurl2/rpo"
+    },
+    {
+      "unexistUrl": "$baseurl/video/AccountingFBSPLFinal.webm",
+      "existUrl": "$baseurl2/accounting-bookkeeping-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/data-annotation",
+      "existUrl": "$baseurl2/data-annotation-services"
+    },
+    {
+      "unexistUrl": "$baseurl/video/HealthcarFBSPLFinal.webm",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl/video/HealthcarFBSPLFinal.webm",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/customer-support-management",
+      "existUrl": "$baseurl2/customer-support-outsourcing"
+    },
+    {
+      "unexistUrl": "$baseurl/video/Tip_for_Creating_Positive_Work_Blog.webm",
+      "existUrl": "$baseurl2/blog/how-to-develop-the-best-work-environment-for-your-team-members"
+    },
+    {
+      "unexistUrl": "$baseurl2/data-annotation-services-for-ai-acceleration",
+      "existUrl": "$baseurl2/data-annotation-for-ai-acceleration"
+    },
+    {
+      "unexistUrl": "$baseurl2/data-annotation-services-services-increased-customers-for-a-client",
+      "existUrl": "$baseurl2/case-studies/ai-data-annotation-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/recruitment-outsourcing-rpo-secret-weapon-recruitment-agency-success",
+      "existUrl": "$baseurl2/blog/rpo-secret-weapon-recruitment-agency-success"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/get-free-consultation",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/faqs",
+      "existUrl": "$baseurl2/faqs"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/sitemap",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/index",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/blog-post.html",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/contact-fbspl",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/blog",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/gdpr",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/testimonial-and-reviews",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/submit-guest-post",
+      "existUrl": "$baseurl2/submit-guest-post"
+    },
+    {
+      "unexistUrl": "$baseurl2/insurancecase1",
+      "existUrl": "$baseurl2/case-studies"
+    },
+    {
+      "unexistUrl": "$baseurl2/cases/accounting-bookeepeing-services",
+      "existUrl": "$baseurl2/case-studies"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/ea-to-director",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/create-your-own-dream-remote-team/sitemap",
+      "existUrl": "$baseurl2/blog/create-your-own-dream-remote-team"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/us-end-to-end-healthcare-recruiter",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/career/manager-us-end-to-end-recruitment",
+      "existUrl": "$baseurl2/careers"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-easy-steps-to-streamline-your-business-process/comment-page-1",
+      "existUrl": "$baseurl2/blog/5-easy-steps-to-streamline-your-business-process"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-can-healthcare-providers-improve-patient-experience/?scid=klhqmvMP9Ipt",
+      "existUrl": "$baseurl2/blog/how-can-healthcare-providers-improve-patient-experience"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development/contact-fbspl",
+      "existUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-remote-staff-can-help-you-in-business-development/feed",
+      "existUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development/submit-guest-post",
+      "existUrl": "$baseurl2/blog/how-remote-staff-can-help-you-in-business-development"
+    },
+    {
+      "unexistUrl": "$baseurl2/2017/11/",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/2017/09/",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/02/",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/virtual-assistants-know-how-2nd-edition",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/virtual-assistants-know/sitemap",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know"
+    },
+    {
+      "unexistUrl": "$baseurl2/vision-mission-values",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/06/25/business-activities-you-can-outsource-to-save-time-money",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/how-to-use-quickBooks-for-your-business-&-how-is-it-different-from-other-accounting-software",
+      "existUrl": "$baseurl2/blog/how-to-use-quickbooks-for-your-business-and-how-is-it-different-from-other-accounting-software"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/01/03/to-improve-sales-pay-more-attention-to-pre-sales",
+      "existUrl": "$baseurl2/blog/how-to-improve-sales-with-pre-sales-bpo-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/11/29/virtual-assistants-know/",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/06/25/business-activities-you-can-outsource-to-save-time-money/",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-easy-steps-to-streamline-your-business-process/5-easy-steps-to-streamline-your-business-process",
+      "existUrl": "$baseurl2/blog/5-easy-steps-to-streamline-your-business-process"
+    },
+    {
+      "unexistUrl": "$baseurl2/wp-content/plugins/bold-page-builder/basic-section.txt",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/staffing-consultation-process-for-a-recruitment-firm",
+      "existUrl": "$baseurl2/case-studies/staffing-consultation-process-for-a-recruitment-firm"
+    },
+    {
+      "unexistUrl": "$baseurl2/redefining-success-by-outsourcing-healthcare-services",
+      "existUrl": "$baseurl2/case-studies/redefining-success-by-outsourcing-healthcare-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/database-management-for-insurance-broker",
+      "existUrl": "$baseurl2/case-studies/database-management-for-insurance-broker"
+    },
+    {
+      "unexistUrl": "$baseurl2/data-annotation-services-increased-customers-for-a-client",
+      "existUrl": "$baseurl2/case-studies/ai-data-annotation-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/customer-ticketing-server-management-optimization",
+      "existUrl": "$baseurl2/case-studies/customer-ticketing-server-management-optimization"
+    },
+    {
+      "unexistUrl": "$baseurl2/accounting-bookkeeping-services-for-a-us-based-firm",
+      "existUrl": "$baseurl2/case-studies/accounting-bookkeeping-services-for-a-us-based-firm"
+    },
+    {
+      "unexistUrl": "$baseurl2/recruitment-process-outsourcing-solution-to-increased-revenue",
+      "existUrl": "$baseurl2/case-studies/recruitment-process-outsourcing-solution-to-increased-revenue"
+    },
+    {
+      "unexistUrl": "$baseurl2/charge-and-patient-demographics-entry",
+      "existUrl": "$baseurl2/case-studies/charge-and-patient-demographics-entry"
+    },
+    {
+      "unexistUrl": "$baseurl2/data-annotation-for-ai-acceleration",
+      "existUrl": "$baseurl2/case-studies/how-data-annotation-increased-customers"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-accounting-bookkeeping-firm-bounced-back-stronger",
+      "existUrl": "$baseurl2/case-studies/how-accounting-bookkeeping-firm-bounced-back-stronger"
+    },
+    {
+      "unexistUrl": "$baseurl2/improving-customer-satisfaction-for-an-ecommerce-brand",
+      "existUrl": "$baseurl2/case-studies/improving-customer-satisfaction-for-an-ecommerce-brand"
+    },
+    {
+      "unexistUrl": "$baseurl2/business-services-for-independent-insurance-agency",
+      "existUrl": "$baseurl2/case-studies/business-services-for-independent-insurance-agency"
+    },
+    {
+      "unexistUrl": "$baseurl2/meet-your-host-kuldeep-bhatnagar",
+      "existUrl": "$baseurl2/podcast/prepare-for-business-transformation-journey-with-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/keeping-clients-and-the-team-happy-with-shekhar-dhabhai",
+      "existUrl": "$baseurl2/podcast/how-to-keep-your-clients-and-the-team-happy"
+    },
+    {
+      "unexistUrl": "$baseurl2/customer-centric-entrepreneurship-with-chin-ma",
+      "existUrl": "$baseurl2/podcast/importance-of-customer-centric-approach-in-entrepreneurship"
+    },
+    {
+      "unexistUrl": "$baseurl2/better-customer-experience-through-digital-transformation-with-michael-malfa",
+      "existUrl": "$baseurl2/podcast/how-digital-trasformation-is-driving-better-customer-experience"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/security-measures-at-fbspl",
+      "existUrl": "$baseurl2/security-measures-at-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/remote-staffing-solutions",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    }, {
+      "unexistUrl": "$baseurl2/2018/05/23/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition/",
+      "existUrl": "$baseurl2/blog/top-3-recruitment-trends-transforming-the-way-of-talent-acquisition"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/03/12/business-world-outsourcing-companies/",
+      "existUrl": "$baseurl2/blog/business-world-outsourcing-companies"
+    },
+    {
+      "unexistUrl": "$baseurl2/clients-review",
+      "existUrl": "$baseurl2/client-testimonial-reviews"
+    },
+    {
+      "unexistUrl": "$baseurl2/rpo-can-be-a-secret-weapon-to-recruitment-agencys-success-heres-how/",
+      "existUrl": "$baseurl2/blog/rpo-secret-weapon-recruitment-agency-success"
+    },
+    {
+      "unexistUrl": "$baseurl2/2019/02/20/rpo-secret-weapon-recruitment-agency-success/",
+      "existUrl": "$baseurl2/blog/rpo-secret-weapon-recruitment-agency-success"
+    },
+    {
+      "unexistUrl": "$baseurl2/podcast/blog",
+      "existUrl": "$baseurl2/podcast"
+    },
+    {
+      "unexistUrl": "$baseurl2/about/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/book-free-consultation-call",
+      "existUrl": "$baseurl2/blog"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/business-process-consulting/recruitment-support-services/",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/contact-fbspl",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/sitemap",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/"
+    },
+    {
+      "unexistUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/gdpr",
+      "existUrl": "$baseurl2/blog/4-reasons-why-should-you-outsource-recruitment/"
+    },
+    {
+      "unexistUrl": "$baseurl2/cgi-sys/defaultwebpage.cgi",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/services/virt",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/06/25/business-activities-you-can-outsource-to-save-time-money/",
+      "existUrl": "$baseurl2/blog/business-activities-you-can-outsource-to-save-time-money/"
+    },
+    {
+      "unexistUrl": "$baseurl2/cases/accounting-bookeepeing-services/",
+      "existUrl": "$baseurl2/case-studies"
+    },
+    {
+      "unexistUrl": "$baseurl2/about-us/our-team/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/why-most-americans-choose-business-process-outsourcing-companies/",
+      "existUrl": "$baseurl2/blog/why-most-americans-choose-business-process-outsourcing-companies/"
+    },
+    {
+      "unexistUrl": "$baseurl2/7-powerful-business-tips-every-entrepreneur-needs-to-consider/",
+      "existUrl": "$baseurl2/blog/7-powerful-business-tips-for-entrepreneur"
+    },
+    {
+      "unexistUrl": "$baseurl2/what-is-data-management-importance-challenges-for-businesses/",
+      "existUrl": "$baseurl2/blog/what-is-data-management-importance-challenges-for-businesses"
+    },
+    {
+      "unexistUrl": "$baseurl2/for-what-reason-should-recruitment-agencies-use-rpo/",
+      "existUrl": "$baseurl2/blog/for-what-reason-should-recruitment-agencies-use-rpo"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/11/29/virtual-assistants-know/",
+      "existUrl": "$baseurl2/blog/virtual-assistants-know/"
+    },
+    {
+      "unexistUrl": "$baseurl2/our-story/madhukar-dubey/",
+      "existUrl": "$baseurl2/about-fbspl"
+    },
+    {
+      "unexistUrl": "$baseurl2/how-outsourcing-e-commerce-services-scales-up-your-business/",
+      "existUrl": "$baseurl2/blog/outsourcing-ecommerce-services-scales-up-business"
+    },
+    {
+      "unexistUrl": "$baseurl2/2018/01/11/create-your-own-dream-remote-team/",
+      "existUrl": "$baseurl2/blog/create-your-own-dream-remote-team/"
+    },
+    {
+      "unexistUrl": "$baseurl2/5-easy-steps-to-streamline-your-business-process/5-easy-steps-to-streamline-your-business-process/",
+      "existUrl": "$baseurl2/blog/5-easy-steps-to-streamline-your-business-process/"
+    },
+    {
+      "unexistUrl": "$baseurl2/medical-healthcare-outsourcing",
+      "existUrl": "$baseurl2/bpm-outsourcing-services"
+    },
+    {
+      "unexistUrl": "$baseurl2/ecommerce-service-page",
+      "existUrl": "$baseurl2/e-commerce-outsourcing-services"
+    },
+    {
+      "unexistUrl": "https://events.fusionfirst.com/",
+      "existUrl": "$baseurl2"
+    },
+    {
+      "unexistUrl": "$baseurl2/case-studies/ecommerce-strategic-outsourcing-led-to-8-Percent-sales-boost",
+      "existUrl": "$baseurl2/case-studies/ecommerce-outsourcing-strategy-for-a-uk-based-organization"
+    }
+    
+
+  ]
+}

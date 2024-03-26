@@ -1,0 +1,152 @@
+[
+    {
+        "PostName": "TraineeAssociate",
+        "PostFullName": "Trainee Associate",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "Associate",
+        "PostFullName": "Associate",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "SeniorAssociate",
+        "PostFullName": "Senior Associate",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "SalesDevelopmentRepresentative",
+        "PostFullName": "Sales Development Representative",
+        "department": "10",
+        "departmentName": "Marketing"
+    },
+    {
+        "PostName": "SocialMediaExpert",
+        "PostFullName": "Social Media Expert",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "SEOExecutive",
+        "PostFullName": "SEO Executive",
+        "department": "10",
+        "departmentName": "Marketing"
+    },
+    {
+        "PostName": "PressRelease/PublicRelationandMediaRelationExpert/Executive",
+        "PostFullName": "Press Release/Public Relation and Media Relation Expert/Executive",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "MotionGraphicDesigner",
+        "PostFullName": "Motion Graphic Designer",
+        "department": "10",
+        "departmentName": "Marketing"
+    },
+    {
+        "PostName": "HRGeneralist",
+        "PostFullName": "HR Generalist",
+        "department": "4",
+        "departmentName": "HR"
+    },
+    {
+        "PostName": "Manager:USend-to-end Recruitment",
+        "PostFullName": "Manager: US end-to-end Recruitment",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "US end-to-end IT Recruiter",
+        "PostFullName": "Trainee Associate",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "Hybrid/NativeAppDeveloper",
+        "PostFullName": "Hybrid/Native App Developer",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "PHP/MySQLDevelopers",
+        "PostFullName": "PHP/MySQL Developers",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "HRIntern",
+        "PostFullName": "HR Intern",
+        "department": "4",
+        "departmentName": "HR"
+    },
+    {
+        "PostName": "AndroidMobileDevelopers",
+        "PostFullName": "Android Mobile Developers",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "SoftwareEngineer",
+        "PostFullName": "Software Engineer",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "PHPDeveloper",
+        "PostFullName": "Software Engineer",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "ProjectManager-Software",
+        "PostFullName": "Project Manager - Software",
+        "department": "2",
+        "departmentName": "IT/SOFTWARE"
+    },
+    {
+        "PostName": "CreativeCopyandContentWriter",
+        "PostFullName": "Creative Copy and Content Writer",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "CustomerSupportRepresentative",
+        "PostFullName": "Customer Support Representative",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "CorporateEnglishCommunicationTrainer",
+        "PostFullName": "Corporate English Communication Trainer",
+        "department": "11",
+        "departmentName": "L&D"
+    },
+    {
+        "PostName": "CorporateComputerSkillsTrainer",
+        "PostFullName": "Corporate Computer Skills Trainer",
+        "department": "11",
+        "departmentName": "L&D"
+    },
+    {
+        "PostName": "PPCExecutive",
+        "PostFullName": "PPC Expert",
+        "department": "10",
+        "departmentName": "Marketing"
+    },
+    {
+        "PostName": "USAccountant",
+        "PostFullName": "US Accountant",
+        "department": "3",
+        "departmentName": "BPO"
+    },
+    {
+        "PostName": "RPOTeamLeader",
+        "PostFullName": "RPO Team Leader",
+        "department": "3",
+        "departmentName": "BPO"
+    }
+]
